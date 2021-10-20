@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "173635946228",
+    "project_id": "apolloapp-95f44",
+    "storage_bucket": "apolloapp-95f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173635946228:android:6f657118b37db8eeda00a1",
+        "android_client_info": {
+          "package_name": "com.apolloinsurance.apolloapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173635946228-i61e3k87rsofvcj7bl57dv788dmm457e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTZf-wQ86b5QmoIaeLY1MNcn2JB7nTp2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173635946228-i61e3k87rsofvcj7bl57dv788dmm457e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173635946228-n5smjvn2aj9sgcql79qnnqs79i545jbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apolloinsurance.apolloapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
